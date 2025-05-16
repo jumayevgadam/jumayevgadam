@@ -6,3 +6,8 @@ I'm Gadam — a backend engineer specializing in **Go** and **Node.js**.
 - 🌱 I’m learning advanced PostgreSQL & microservices
 - 💬 Ask me about Go, Node.js, or SQL
 - 📫 How to reach me: **Email:** hypergadam@gmail.com
+
+### 👁️ Visitors Count
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=gadam&label=Profile+views&color=0e75b6&style=flat" />
+</p>
